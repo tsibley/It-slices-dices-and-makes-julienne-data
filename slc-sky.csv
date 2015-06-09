@@ -1,0 +1,37 @@
+month,sky,mean_observed
+January,Clear,5.6
+January,"Partly Cloudy",6.5
+January,Cloudy,18.9
+February,Clear,5.2
+February,"Partly Cloudy",6.9
+February,Cloudy,16.1
+March,Clear,7
+March,"Partly Cloudy",8.1
+March,Cloudy,15.9
+April,Clear,6.7
+April,"Partly Cloudy",9.3
+April,Cloudy,14.0
+May,Clear,9.0
+May,"Partly Cloudy",10.2
+May,Cloudy,11.7
+June,Clear,13.8
+June,"Partly Cloudy",9.8
+June,Cloudy,6.4
+July,Clear,16.7
+July,"Partly Cloudy",9.8
+July,Cloudy,4.5
+August,Clear,15.9
+August,"Partly Cloudy",10.6
+August,Cloudy,4.5
+September,Clear,16.6
+September,"Partly Cloudy",8.2
+September,Cloudy,5.2
+October,Clear,13.9
+October,"Partly Cloudy",7.8
+October,Cloudy,9.4
+November,Clear,8.4
+November,"Partly Cloudy",7.1
+November,Cloudy,14.6
+December,Clear,6.3
+December,"Partly Cloudy",6.5
+December,Cloudy,18.2
